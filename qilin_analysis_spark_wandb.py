@@ -86,3 +86,6 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+## https://wandb.ai/alexliusea2019-purdue-university/wandb_qilin/runs/79bwunr0?nw=nwuseralexliusea2019
